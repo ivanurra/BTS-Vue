@@ -2,7 +2,7 @@ const app = Vue.createApp({
   data() {
     return {
       currentUserInput: '',
-      message: 'Vue is great!',
+      message: 'Write something!',
     };
   },
   methods: {
